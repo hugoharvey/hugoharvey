@@ -1,0 +1,2 @@
+- I’m @hugoharvey. I'm a 20 year old, studying English literature at university.
+- I’m interested in web development, so I'm currently learning basic HTML, CSS and JavaScript with The Odin Project.
